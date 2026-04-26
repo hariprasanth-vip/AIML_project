@@ -6,13 +6,13 @@ Instead of sending raw data to a central server, multiple clients train the mode
 The project also compares:
 - Federated Learning (FL)
 - Centralized Learning (CL)
-- 
+
 ## Objectives
 - Implement Federated Learning from scratch
 - Simulate Non-IID client data distribution
 - Compare performance with centralized training
 - Visualize accuracy differences
-- 
+ 
 ## Model Architecture
 A CNN model is used with:
 - 3 Convolution layers
@@ -20,7 +20,7 @@ A CNN model is used with:
 - Max Pooling
 - Dropout (for regularization)
 - Fully Connected layers
-- 
+   
 ## Dataset
 - CIFAR-10 dataset
 - 60,000 images (32x32 color images)
